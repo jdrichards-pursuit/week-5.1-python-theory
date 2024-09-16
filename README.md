@@ -1,6 +1,6 @@
 # Pandas Basica and Challenge
 
-This repository contains the code for the Pandas Basic and Challenge tutorials.
+This repository contains the code for the Pandas Basic Tutorial using customer data and a Pandas challenge using an employee performance dataset.
 
 ## Pandas Basic Tutorial
 
@@ -8,6 +8,8 @@ To learn about Pandas and basic concepts, got to the pandas_basic_tutorial.ipynb
 
 ## Pandas Challenge
 
-Read the instructions in the pandas_challenge.py file to understand the challenge. Then place your code in the pandas_challenge.py file.
+You will create functions to analyze the employee performance dataset.
+
+Read the instructions in the pandas_challenge.md file to understand the challenge. Then place your code in the pandas_challenge.py file.
 
 Good Luck!
