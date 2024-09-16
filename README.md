@@ -1,5 +1,7 @@
 # Pandas Basica and Challenge
 
+![Fun Panda](assets/panda.svg)
+
 This repository contains the code for the Pandas Basic Tutorial using customer data and a Pandas challenge using an employee performance dataset.
 
 ## Pandas Basic Tutorial
