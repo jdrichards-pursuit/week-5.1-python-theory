@@ -1,7 +1,6 @@
 # Employee Performance Analysis with Pandas
 
-![Fun Panda](/assets/panda.svg)
-
+<img src="assets/panda.svg" alt="Pandas Logo" width="300">
 ## Objective:
 
 Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations.
