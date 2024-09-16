@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations.
+Analyze the employee performance dataset using Pandas to perform data loading, exploration, selection, and operations. (feel free to take a look at the data in the [employee_performance.csv](./data/employee_performance.csv))
 
 ## Code
 
