@@ -8,6 +8,8 @@
 
 Pandas is an open-source library for the Python programming language, designed for data manipulation and analysis. It provides high-performance, easy-to-use data structures and tools for working with structured data.
 
+You are probably asking yourself how Pandas correlate with AI and Machine Learning. Take a look at this [Correlation between Pandas and AI/ML list](./pandas_ai_correlations.md) to understand why we are learning about them
+
 ## Key Features
 
 1. **Data Structures**: Pandas introduces two primary data structures:
