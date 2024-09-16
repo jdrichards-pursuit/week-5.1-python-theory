@@ -48,3 +48,9 @@ Below is a list of how Pandas are commonly used in AI and Machine Learning.
   - Resampling
   - Rolling windows
   - Lag operations
+
+[Back to Readme](README.md)
+
+[Go To Pandas Basics](./pandas_basics.ipynb)
+
+[Go To Employee Performance Challenge](./employee_performance_challenge.md)
