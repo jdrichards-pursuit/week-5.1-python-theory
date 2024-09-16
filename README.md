@@ -23,7 +23,7 @@ Pandas is an open-source library for the Python programming language, designed f
 
 5. **Time Series Functionality**: Extensive capabilities for working with date, time, and time-indexed data
 
-6. **Performance**: Built on top of NumPy, offering high performance for large datasets
+6. **Performance**: Built on top of [NumPy](https://numpy.org/) (Numerical Python, a fundamental package for scientific computing in Python), offering high performance for large datasets
 
 ## Why Use Pandas?
 
