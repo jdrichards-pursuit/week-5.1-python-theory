@@ -52,8 +52,11 @@ To learn about Pandas and basic concepts, got to the `pandas_basic_tutorial.ipyn
 
 ## Pandas Challenge
 
-You will create functions to analyze the employee performance dataset.
+## Resources
 
-Read the instructions in the `pandas_challenge.md` file to understand the challenge. Then place your code in the `pandas_challenge.py` file.
+- [pandas Official Documentation](https://pandas.pydata.org/docs/)
+- [Kaggle Tutorial - Learn Pandas](https://www.kaggle.com/learn/pandas)
+- [10 Minutes to pandas - Official Tutorial](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [pandas Cheat Sheet - DataCamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
+- [JavaScript for Data Science - Observable](https://observablehq.com/@observablehq/javascript-for-data-science)
 
-Good Luck!
