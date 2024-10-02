@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 def load_data():
     """Load the customer purchasing behavior dataset."""
@@ -59,10 +60,18 @@ def basic_visualization(df):
     plt.close()
     print("Scatter plot saved as 'income_vs_purchase.png'")
 
+def visualize_data(df):
+    sns.histplot(df['purchase_amount'], bins=30, kde=True)
+    plt.title('Distribution of Purchase Amount')
+    plt.xlabel('Purchase Amount')
+
+
 def main():
     print("Welcome to Pandas Tutorial: Customer Purchasing Behavior Analysis!")
     
     df = load_data()
+
+    # comment out the invocations and print lines if you want to see each one one at a time
     
     print("\n1. Exploring DataFrame")
     explore_dataframe(df)
@@ -80,6 +89,9 @@ def main():
     basic_visualization(df)
     
     print("\nTutorial completed! You've learned Pandas basics with real customer data.")
+
+    print("\n4. Visualizing Data")
+    visualize_data(df)
 
 if __name__ == "__main__":
     main()
