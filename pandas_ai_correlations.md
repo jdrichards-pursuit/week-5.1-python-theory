@@ -51,6 +51,6 @@ Below is a list of how Pandas are commonly used in AI and Machine Learning.
 
 [Back to Readme](README.md)
 
-[Go To Pandas Basics Tutorial](./pandas_basics_lesson.ipynb)
+[Go To Pandas Basics Tutorial](https://github.com/jdrichards-pursuit/week-5.1-python-theory/blob/fd861d789b532c86673bbf62d2b4c107843af52a/pandas_basics_lesson.ipynb)
 
 [Go To Employee Performance Challenge](./employee_performance_challenge.md)
