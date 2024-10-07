@@ -48,11 +48,13 @@ This repository contains the code for the Pandas Basic Tutorial using customer d
 
 ## Pandas Basic Tutorial
 
-To learn about Pandas and basic concepts, go to the [pandas_basic_tutorial.ipynb](./pandas_basics_lesson.ipynb) file. Follow the instructions in the file to complete the tutorial.
+To learn about Pandas and basic concepts, go to the [pandas_basics_lesson](./pandas_basics_lesson.ipynb) file. Follow the instructions in the file to complete the tutorial.
 
-## Pandas Challenge
+## Pandas Practice
 
-TBD
+To practice Pandas, go to the [pandas_practice](https://github.com/jdrichards-pursuit/week-5.1-python-practice) file. Follow the instructions in the file to complete the practice.
+
+
 
 ## Resources
 
